@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FSharpFibonacci": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    }
+  }
+}
