@@ -11,6 +11,6 @@ let rec fibonnacci n =
 [<EntryPoint>]
 let main argv =
     let num = int argv.[0]
-    let x = fibonnacci num
-    printfn "Result: %d" x
+    let X = fibonnacci num
+    printfn "Result: %d" X
     0 // return an integer exit code
